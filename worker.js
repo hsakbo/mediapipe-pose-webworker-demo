@@ -1,5 +1,4 @@
 import { Pose } from "@mediapipe/pose";
-import { Konva } from "konva/cmj/_FullInternals";
 
 const pose = new Pose({
     locateFile: (file) => {
